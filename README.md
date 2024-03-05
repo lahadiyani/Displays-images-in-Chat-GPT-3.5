@@ -15,4 +15,8 @@ lalu copy dan paste prompt di chat gpt kamu
 
 # tutorial ekstrak file Zip menggunakan zachiver
 
-![tutorial](https://github.com/lahadiyani/Displays-images-in-Chat-GPT-3.5/blob/main/Screenrecording_20240305_133159.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/lahadiyani/Displays-images-in-Chat-GPT-3.5/blob/main/Screenrecording_20240305_133159.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
